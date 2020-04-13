@@ -21,7 +21,7 @@ push = require 'push'
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 
--- virtual resolution dimensions
+-- virtual resolution dimensions - a 16x9 resolution so that it fits well on modern screens
 VIRTUAL_WIDTH = 512
 VIRTUAL_HEIGHT = 288
 
